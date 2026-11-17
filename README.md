@@ -1,4 +1,4 @@
-# sobre mim
+## sobre mim
 
 <p align="center">
   <strong>Estudante de Ciência da Computação | Desenvolvimento de Software</strong>
@@ -15,24 +15,24 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+
 
 Sou estudante de Ciência da Computação com interesse em **desenvolvimento de software, programação e inovação tecnológica**.
 
 Tenho um perfil criativo, proativo e orientado à resolução de problemas, e busco constantemente aprimorar meus conhecimentos e explorar novas tecnologias. Ao longo da minha formação, venho desenvolvendo habilidades em programação, lógica computacional e desenvolvimento de projetos.
 
-## 🎯 Objetivo profissional
+##  Objetivo profissional
 
 Busco oportunidades na área de **Desenvolvimento de Software** para aplicar meus conhecimentos, adquirir experiência prática e contribuir para a criação de soluções tecnológicas eficientes e funcionais.
 
-## 🔭 Áreas de interesse
+##  Áreas de interesse
 
-- 💻 Desenvolvimento de Software
-- 🎮 Desenvolvimento de Jogos (Game Development)
-- 📊 Ciência de Dados
-- ⌨️ Programação
+-  Desenvolvimento de Software
+-  Desenvolvimento de Jogos (Game Development)
+-  Ciência de Dados
+-  Programação
 
-## 🧠 Competências
+##  Competências
 
 - Raciocínio lógico e resolução de problemas
 - Criatividade e pensamento analítico
@@ -40,7 +40,7 @@ Busco oportunidades na área de **Desenvolvimento de Software** para aplicar meu
 - Trabalho em equipe e colaboração
 - Aprendizado contínuo
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <!-- Edite com as tecnologias que você realmente usa -->
 <p>
@@ -49,7 +49,7 @@ Busco oportunidades na área de **Desenvolvimento de Software** para aplicar meu
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 📫 Contato
+##  Contato
 
 - **E-mail:** [ahentique77@gmail.com](mailto:ahentique77@gmail.com)
 - **LinkedIn:** [linkedin.com/in/arthur-henrique-90621043b](https://www.linkedin.com/in/arthur-henrique-90621043b)
@@ -57,5 +57,5 @@ Busco oportunidades na área de **Desenvolvimento de Software** para aplicar meu
 ---
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+  ⭐ Obrigado por visitar meu perfil <3 ! 
 </p>
