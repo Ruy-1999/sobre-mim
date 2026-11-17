@@ -2,17 +2,7 @@
 
 <p align="center">
   <strong>Estudante de Ciência da Computação | Desenvolvimento de Software</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arthur-henrique-90621043b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahentique77@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-</p>
-
+ 
 ---
 
 
@@ -51,8 +41,8 @@ Busco oportunidades na área de **Desenvolvimento de Software** para aplicar meu
 
 ##  Contato
 
-- **E-mail:** [ahentique77@gmail.com](mailto:ahentique77@gmail.com)
-- **LinkedIn:** [linkedin.com/in/arthur-henrique-90621043b](https://www.linkedin.com/in/arthur-henrique-90621043b)
+
+
 
 ---
 
